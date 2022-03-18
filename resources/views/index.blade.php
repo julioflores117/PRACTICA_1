@@ -12,17 +12,25 @@
         cp:
         <input type="text" name="" id="">
         <input type="button" value="buscar"><br>
-        <input type="hidden" name="">
-        <input type="image" src="" alt="">
-        <table>
-            <div class="row">
-                <p>codigo</p>
-                <div class="colm">
-                    
-
-                </div>
-            </div>
-        </table>
+        <form action="">
+            Asentamiento
+            <select name="" id="">
+                
+                <option value="">----</option>
+            </select>
+            Tipo de asentamiento
+            <select name="" id="">
+                <option value="">---</option>
+            </select>
+            Municipio
+            <select name="" id="">
+            <option value="">---</option>
+            </select>
+            Estado
+            <select name="" id="">
+            <option value="">---</option>
+            </select>
+        </form>
     </body>
 </body>
 </html>
